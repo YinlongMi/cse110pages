@@ -26,6 +26,7 @@ CSE Upper Course lists:
 
 ### First assignment:
 > Lab Week 0 & 1 - VSCode, Markdown, and Git Part 1
+
 Use `git branch add-read-me` to create the branch for first assignment.
 Edited my first [README.md](README.md)
 Read this [documentation](https://code.visualstudio.com/docs/sourcecontrol/overview#_git-support) for using git within VS Code.

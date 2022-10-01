@@ -1,5 +1,6 @@
 # Yinlong Mi
 **CSE 110 student user page**
+[Go to first assignment](## First assignment:)
 ### My Profile:
 Picture of myself:
 ![Photo](myphoto.jpg)
@@ -26,5 +27,3 @@ CSE Upper Course lists:
 Use `git branch add-read-me` to create the branch for first assignment.
 Edited my first [README.md](README.md)
 Read this [documentation](https://code.visualstudio.com/docs/sourcecontrol/overview#_git-support) for using git within VS Code.
-
-[Go back to top](# Yinlong Mi)
